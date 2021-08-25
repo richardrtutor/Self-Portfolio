@@ -28,7 +28,7 @@
   display: flex;
   flex-direction: row;
   background-image: url("images/banner.webp");
-  background-size: 1440 400;
+  background-size: 1440px 400px;
   background-repeat: no-repeat;
   justify-content: center;
   padding-top: 12em;
