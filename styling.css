@@ -13,7 +13,7 @@
 }
 
 .greetings {
-  text-align: center;
+  text-align: center center;
   font-family: "Press Start 2P";
   font-size: 5em;
   font-weight: bolder;
@@ -23,7 +23,11 @@
 }
 
 .banner {
+  padding: 10em;
+  margin-top: 8em;
+  border-radius: 50%;
   border-bottom-style: solid;
+  border-top-style: solid;
   border-color: gold;
   display: flex;
   flex-direction: row;
@@ -31,8 +35,6 @@
   background-size: 110% 100%;
   background-repeat: no-repeat;
   justify-content: center;
-  padding-top: 12em;
-  padding-bottom: 6em;
 }
 
 .spacer {
